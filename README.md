@@ -14,7 +14,7 @@ These parameters can be provided when creating the stack:
 
 ### Resources
 
-ChromaInstance: An EC2 instance with the following properties:
+ChromaInstance:
 * AMI ID
 * InstanceType
 * UserData
