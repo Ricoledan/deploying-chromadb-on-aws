@@ -1,5 +1,5 @@
 # Deploying ChromaDB on AWS
-⚙️ Code example for [Deploying ChromaDB on AWS]()
+⚙️ Code example for [Deploying ChromaDB on AWS](https://medium.com/@ricoledan/deploying-chromadb-on-aws-37c448331911)
 
 This AWS CloudFormation template creates a stack that runs Chroma on a single EC2 instance.
 The instance is configured with Docker and Docker Compose, which are used to run Chroma and ClickHouse services.
